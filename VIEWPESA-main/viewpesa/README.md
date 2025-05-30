@@ -78,15 +78,6 @@ ViewPesa uses a **bottom navigation bar** to easily switch between:
 
 ---
 
-## 🚀 Getting Started (Project Setup)
-
-To run the app locally:
-
-`bash
-git clone https://github.com/semedo-nob/viewpesa.git
-cd viewpesa
-flutter pub get
-flutter run
 📈 Project Status
 🟢 Currently under active development
 
@@ -95,10 +86,3 @@ flutter run
 📱 Fully mobile-optimized UI
 
 🎯 Built with production-readiness in mind
-
-💡 Notes
-This repo is private
-
-Images are embedded from within the project at lib/assets/*.jpg
-
-Make sure required permissions for reading SMS are granted on Android
